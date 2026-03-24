@@ -1,0 +1,16 @@
+# IDE 配置文件
+.idea/
+.vscode/
+cmake-build-*/
+
+# 临时和备份文件
+*.bkp
+*.tmp
+.DS_Store
+
+# 编译产物
+build/
+bin/
+*.exe
+*.o
+*.obj
